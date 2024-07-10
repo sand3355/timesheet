@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://6867544atrial.launchpad.cfapps.us10.hana.ondemand.com/lcaptimesheet.timesheetLaunchpad-1.0.0",
+  "DeployedUTCTime": "2024-07-10T07:49:33.451Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:timesheet-srv)))))"
+}

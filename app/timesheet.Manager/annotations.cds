@@ -1,0 +1,1 @@
+using Manager as service from '../../srv/service1';

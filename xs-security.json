@@ -1,0 +1,33 @@
+{
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.Manager",
+      "description": "Manager"
+    },
+    {
+      "name": "$XSAPPNAME.employee",
+      "description": "employee"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "Manager",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.Manager"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "employee",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.employee"
+      ],
+      "attribute-references": []
+    }
+  ],
+  "xsappname": "timesheet",
+  "tenant-mode": "dedicated"
+}
